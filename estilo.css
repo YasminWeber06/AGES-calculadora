@@ -50,6 +50,7 @@ button:active {
     transform: translateY(2px); /* leve efeito de clique */
 }
 
+
 .numero {
     background: #ffb6d9;
     color: white;

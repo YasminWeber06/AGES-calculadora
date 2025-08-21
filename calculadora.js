@@ -14,7 +14,7 @@ function limparEntrada() {
 function limparTudo() {
     display.value = "";
 }
-
+//Função da porcentagem
 function porcentagem() {
     if (display.value !== "") {
         display.value = (parseFloat(display.value) / 100).toString();
